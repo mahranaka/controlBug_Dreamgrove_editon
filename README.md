@@ -1,5 +1,7 @@
 Edited version of Oi's controlBug weakaura: https://wago.io/ControlBug
 
+--> https://wago.io/RSvpOalfNZ
+
 Has the exact same functionality but shows cool pictures of common dreamgrove discord balance druid chatters. Just to make swapping talents after pulls a bit more interesting since blizzard cant seem to fix it.
 
 YOU NEED TO DOWNLOAD THE FOLDER WITH THE IMAGES FOR IT TO WORK:
